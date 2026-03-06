@@ -4,7 +4,6 @@
 Email : [donggyunlyu@gmail.com](mailto:donggyunlyu@gmail.com)
 
 
----
 
 ## Education & Programs
 
@@ -20,7 +19,7 @@ Email : [donggyunlyu@gmail.com](mailto:donggyunlyu@gmail.com)
 
 - **2021.03 – Present** 서경대학교 전자공학과
 
----
+
 
 ## Activities
 
