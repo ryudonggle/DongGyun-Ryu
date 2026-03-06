@@ -5,7 +5,7 @@ Email : [donggyunlyu@gmail.com](mailto:donggyunlyu@gmail.com)
 
 
 
-## Education & Programs
+### Education & Programs
 
 - **2025.07 – 2026.02** 코드잇 데이터 분석가 부트캠프 9기  
 
@@ -21,6 +21,6 @@ Email : [donggyunlyu@gmail.com](mailto:donggyunlyu@gmail.com)
 
 
 
-## Activities
+### Activities
 
 - **2024.08 – 2024.12** 청소년 디지털 문제해결 프로젝트 멘토
