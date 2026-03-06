@@ -17,7 +17,7 @@ Email : [donggyunlyu@gmail.com](mailto:donggyunlyu@gmail.com)
 - **2024.01 – 2024.02** LG Aimers 4기 AI 프로그램 (교육 + 해커톤)  
   - 해커톤 예선 **210위 / 844팀 (Top 25%)**
 
-- **2021.03 ~** 서경대학교 전자공학과
+- **2021.03 ~ ** 서경대학교 전자공학과
 
 
 
